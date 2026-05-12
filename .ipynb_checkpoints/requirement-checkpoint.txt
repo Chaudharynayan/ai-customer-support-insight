@@ -4,6 +4,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-transformers
-sentence-transformers
-torch
+transformers==4.41.0
+sentence-transformers==3.0.1
+torch==2.1.0

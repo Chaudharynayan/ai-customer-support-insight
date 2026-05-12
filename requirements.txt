@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
-matplotlib==3.8.4
-seaborn==0.13.2
-scikit-learn==1.4.2
-transformers==4.41.0
-sentence-transformers==3.0.1
-torch==2.1.0
+matplotlib
+seaborn
+scikit-learn
+transformers
+sentence-transformers
+torch

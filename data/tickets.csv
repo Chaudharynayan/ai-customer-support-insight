@@ -1,0 +1,16 @@
+ticket_id,timestamp,customer_id,channel,message,product,order_value,customer_country,resolution_status
+1,2026-05-01,C101,email,"My order arrived damaged and the screen is cracked",Laptop,75000,India,Open
+2,2026-05-01,C102,chat,"Refund still not received after cancellation",Shoes,2500,USA,Pending
+3,2026-05-02,C103,web,"Delivery is delayed by more than a week",Headphones,5000,India,Open
+4,2026-05-02,C104,email,"Payment deducted twice from my account",Phone,30000,Canada,Resolved
+5,2026-05-03,C105,chat,"Unable to login to my account after password reset",Subscription,1000,UK,Open
+6,2026-05-03,C106,email,"Customer support is not responding at all",Watch,8000,India,Pending
+7,2026-05-04,C107,web,"My package never arrived but status says delivered",Tablet,25000,Germany,Open
+8,2026-05-04,C108,chat,"Refund process is extremely slow",Camera,45000,USA,Pending
+9,2026-05-05,C109,email,"Received the wrong product instead of what I ordered",Shoes,3500,India,Resolved
+10,2026-05-05,C110,web,"App crashes every time I try to make payment",Subscription,1500,Australia,Open
+11,2026-05-06,C111,chat,"The product stopped working within two days",Speaker,6000,India,Pending
+12,2026-05-06,C112,email,"Delivery executive was rude and unprofessional",Phone,20000,UK,Resolved
+13,2026-05-07,C113,web,"I was charged but order was never confirmed",Laptop,82000,USA,Open
+14,2026-05-07,C114,chat,"Need urgent refund for cancelled order",Headphones,4000,Canada,Pending
+15,2026-05-08,C115,email,"Tracking information has not updated in days",Tablet,18000,India,Open
